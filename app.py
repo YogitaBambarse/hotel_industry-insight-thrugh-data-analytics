@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-st.line_chart(revenue_path)
+st.line_chart(revenue_month)
 
 st.set_page_config(page_title="Hotel Industry Analytics", layout="wide")
 
