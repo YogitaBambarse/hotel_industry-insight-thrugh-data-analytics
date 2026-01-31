@@ -1,4 +1,4 @@
-BookingID,Month,Room_Type,Booking_Source,Revenue,Occupancy,Stay_Days,Customer_Type,Rating
+Booking_ID,Month,Room_Type,Booking_Source,Revenue,Occupancy,Stay_Days,Customer_Type,Rating
 B001,Jan,Deluxe,OTA,45000,72,3,New,4.2
 B002,Jan,Standard,Direct,32000,72,2,Repeat,4.0
 B003,Feb,Deluxe,OTA,38000,65,2,New,3.9
